@@ -1,6 +1,6 @@
 Title (limit 80 characters)
 書きたいこと）実際のアプリケーションに対して書籍"Java Performance"に沿って測定し、改善した話
-書いてみた英文）First step of Java performance tuning : measurement and improvement of our web application using the book "Java Performance”
+書いてみた英文）The first step of Java performance tuning using the book "Java Performance”
 
 Abstract (limit 750 characters)
 書きたいこと）
