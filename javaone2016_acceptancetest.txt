@@ -1,0 +1,18 @@
+Title (limit 80 characters)
+書きたいこと）実践的な受け入れテスト: Gauge, Selenide and DbUnit
+書いてみた英文）Practical acceptance tests: Gauge, Selenide and DbUnit
+
+Abstract (limit 750 characters)
+書きたいこと）
+私たちはWebアプリケーションの受け入れテストを自動化しました。各受け入れテストではまずデータベースに初期データを登録します。次にテスト手順に対応したコードを実行して画面を操作します。最後に画面の内容を検証し、期待値のファイルとデータベースの状態を比較して検証します。これらはGauge, Selenide, DbUnitで実現しています。Gaugeはクロスプラットフォームなテスト自動化ツールです。テストケースを自然言語を使ってマークダウン形式で記述することができます。よって、テストケースは実行可能なドキュメントとなります。SelenideはSeleniumのラッパーです。Selenium同様にWebDriverを使って画面を操作することができます。DbUnitはJunitの拡張です。テストを実行する間、データベースの状態を指定した状態にすることができます。このセッションでは、この受け入れテスト自動化の構築において直面した課題やその解決策、自動化によるメリット/デメリットを解説します。
+
+書いてみた英文）
+We have automated acceptance tests to our web application. Each acceptance test inserts records to RDBMS. Next it runs code corresponding to procedures to operate th GUI. Finally it verifies contents and compares expected records in file and recoreds in table of RDBMS. We achieve automation with Gauge, Selenide and DbUnit. Gauge is a test automation tool. It provides the ability to author test cases in Markdown format and natural language. So test cases are executable document. Selenide is Selenium Wrapper. It operates GUI as Selenium. DbUnit is JUnit extension. It puts a database into known state between test runs. In this session, I'd like to share the problems and its solutions during our process of automationing and pros/cons of it.
+
+Presentation Summary - For evaluation only, this is an additional description of your proposal to help the reviewers better understand your submission. Text limit 3950 characters.
+書きたいこと）
+私たちは以前受け入れテストはすべて手動で実行していました。
+
+
+書いてみた英文）
+
