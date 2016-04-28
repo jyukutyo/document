@@ -7,11 +7,7 @@ Abstract (limit 750 characters)
 私たちはWebアプリケーションの受け入れテストを自動化しました。各受け入れテストではまずデータベースに初期データを登録します。次にテスト手順に対応したコードを実行して画面を操作します。最後に画面の内容を検証し、期待値のファイルとデータベースの状態を比較して検証します。これらはGauge, Selenide, DbUnitで実現しています。Gaugeはクロスプラットフォームなテスト自動化ツールです。テストケースを自然言語を使ってマークダウン形式で記述することができます。よって、テストケースは実行可能なドキュメントとなります。SelenideはSeleniumのラッパーです。Selenium同様にWebDriverを使って画面を操作することができます。DbUnitはJunitの拡張です。テストを実行する間、データベースの状態を指定した状態にすることができます。このセッションでは、この受け入れテスト自動化の構築において直面した課題やその解決策、自動化によるメリット/デメリットを解説します。
 
 書いてみた英文）
-We have automated acceptance tests to our web application. Firstly, each acceptance test inserts records to RDBMS. Secondly, it runs code corresponding to procedures to operate th GUI. Lastly, it verifies contents and compares expected records in file and recoreds in table of RDBMS.
-We achieve automation with Gauge, Selenide and DbUnit. 
-Gauge is a cross-platform test automation tool.It provides the ability to author test cases in Markdown format and natural language. So that test cases become executable documents. 
-Selenide is a Selenium Wrapper. It operates GUI as Selenium. 
-DbUnit is a JUnit extension. It puts a database into known state between test runs. In this session, I'd like to share the problems and its solutions during our process of automationing and pros/cons of it.
+We have automated acceptance tests. Firstly, each acceptance test inserts records to RDBMS. Secondly, it runs code corresponding to procedures to operate th GUI. Lastly, it verifies contents and compares expected records in file and recoreds in table of RDBMS. We achieve automation with Gauge, Selenide and DbUnit. Gauge is a test automation tool.It provides the ability to author test cases in Markdown format and natural language. So that test cases become executable documents. Selenide is a Selenium Wrapper. It operates GUI as Selenium. DbUnit is a JUnit extension. It puts a database into known state between test runs. In this session, I'd like to share the problems and its solutions during our process of automationing and pros/cons of it.
 
 Presentation Summary - For evaluation only, this is an additional description of your proposal to help the reviewers better understand your submission. Text limit 3950 characters.
 書きたいこと）
