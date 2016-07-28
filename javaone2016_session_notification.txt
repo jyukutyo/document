@@ -1,0 +1,22 @@
+Dear Koichi,
+
+Thank you for taking the time to submit a session for consideration for Oracle OpenWorld or JavaOne 2016 in San Francisco, California. The response to the Call for Proposals was tremendous, with thousands of submissions, and unfortunately we can only select a portion of those. We regret to inform you that your session(s) listed below was not selected.
+
+
+Conference: JavaOne
+Session Type: BOF (Birds-of-a-Feather) Session
+Session ID: BOF1547
+Session Title: The first step of Java performance tuning using the book "Java Performance”
+
+Conference: JavaOne
+Session Type: BOF (Birds-of-a-Feather) Session
+Session ID: BOF1682
+Session Title: Practical acceptance tests: Gauge, Selenide and DbUnit
+
+The time and effort you invested in submitting a session is greatly appreciated and we hope that you will consider submitting again for Oracle OpenWorld or JavaOne 2017. If you would like to receive communications on the 2017 Call for Proposals, click here to sign-up.
+
+We hope that you will be able to attend Oracle OpenWorld and JavaOne 2016, the most important educational and networking events for Oracle technologists, and the Java Community. For conference and registration information, please visit the Oracle OpenWorld 2016 and JavaOne 2016 websites.
+
+Sincerely,
+
+The Oracle Content Team
