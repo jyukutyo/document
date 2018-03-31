@@ -1,0 +1,22 @@
+# bio
+
+Koichi is a senior software engineer in Japan. He has been developed many web applications with Java for 15 years. 
+He is also a leader of a JUG called KanJava in Japan, an author of several books about Java framework and a frequent conference speaker in Japan.
+He loves to attend Java conferences around the world!
+
+# session
+
+Have you ever manipulated Java bytecode? There are several bytecode engineering libraries, ByteBuddy is one of the easiest to use libraries.
+There is an another tool, Java Agent. It is related to the Instrumentation class in java.lang.instrument API. Instrumentation is the addition of byte-codes to methods. Since the changes are purely additive, Java Agent does not modify application state or behavior.
+WIth ByteBuddy and Java Agent, we can add behaviors to existing classes.
+
+This talk will be useful for those who wanted to start manipulating Java bytecode using ByteBuddy.
+
+---
+Hava you ever implemented a compiler? That sounds difficult for many people. In this session I wiil define a super simple language specification that has variables and functions.
+Then we will create BNF (Backus–Naur form), generate a lexer and a parse by ANTLR, which is a parser generator. After parsing we can get AST (Abstract Syntax Tree), so we try to generate a class file from AST. Finally we cad run it with Java command!
+
+This talk will be useful for those who wanted to start creating their own programming language.
+
+---
+With Truffle and ANTLR, we can build a new language on JVM. Truffle is a framework for implementing languages and ANTLR is a parser generator. Generally there are so many tasks to build a new language. But with Graal we can focus on creating AST. This session describes what is lexer, parse and AST in detail using many diagrams and how to use Truffle and ANTLR to build a language with code. At the end, we'll be able to build and run our own language!
