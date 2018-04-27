@@ -1,0 +1,10 @@
+Session ID
+IGN4693
+Title
+Your city has a developer community? No? Let's create!
+Abstract
+I'm a founder and a leader of KanJava JUG (Java User Group) in Japan. I built the JUG 10 years ago. Now there are more than 800 members, and events always filled up within 2 hours after announcing. Your city may have a developer community. Unfortunately, it may not match your technical interest. Are you waiting for someone who creates such community? You can do that! I could do that! Certainly, it isn't easy to create and continue a developer community. My JUG event had few participants in first three years. I have thought about stopping the community several times before. Now I'm enjoying to organize the community! So in this session I will taik the secrets of operating a developer community.
+
+Koichi is a senior software engineer in Japan. He has been developed many web applications with Java for 15 years. 
+He is also a leader of a JUG called KanJava in Japan, an author of several books about Java framework and a frequent conference speaker in Japan.
+He loves to attend Java conferences around the world!
