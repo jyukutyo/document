@@ -10,6 +10,11 @@ Session Title:	create your own super simple JIT Compiler with JVMCI
 Session Abstract:	JVMCI means "JVM compiler interface". We can use JVMCI's interfaces to write a JIT compiler in Java. Such compiler already exists, called Graal. Graal was introduced in Java 10. But I tried to write my own super simple JIT compiler for learning purpose. JVM passes byte array of hot method to the interface. So we need to translate that into Java bytecodes. After that we make machine code from Java bytecodes. Machine code is cpu-specific, so I made machine code only for Intel 64 bit CPU. There are so many optimization techniques, so I used only a few techniques. In this session I will talk about what a JIT compiler is, specification of JVMCI interfaces, how to write implementations and how to run an application with you own compiler.
 Session Type:	Birds of a Feather (BOF)
 ---
+Session ID:	BOF5314
+Session Title:	Bytecode manipulation with Java Agent & ByteBuddy
+Session Abstract:	Have you ever manipulated Java bytecode? There are several bytecode engineering libraries, ByteBuddy is one of the easiest. There is an another tool, Java Agent. It is related to the Instrumentation class in java.lang.instrument API. Instrumentation is the addition of bytecode to methods. Since the changes are purely additive, Java Agent does not modify application state or behavior. WIth ByteBuddy and Java Agent, we can add behaviors to existing classes. In this session I will explain what Java Agent and Instrument API are, an introduction of ByteBuddy and an example code that use Java Agent and ByteBuddy to modify behavior. This talk will be useful for those who wanted to start manipulating Java bytecode using ByteBuddy.
+Session Type:	Birds of a Feather (BOF)
+---
 Koichi is a senior software engineer in Japan. He has been developed many web applications with Java for 15 years. 
 He is also a leader of a JUG called KanJava in Japan, an author of several books about Java framework and a frequent conference speaker in Japan.
 He loves to attend Java conferences around the world!
