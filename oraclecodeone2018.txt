@@ -5,10 +5,25 @@ Your city has a developer community? No? Let's create!
 Abstract
 I'm a founder and a leader of KanJava JUG (Java User Group) in Japan. I built the JUG 10 years ago. Now there are more than 800 members, and events always filled up within 2 hours after announcing. Your city may have a developer community. Unfortunately, it may not match your technical interest. Are you waiting for someone who creates such community? You can do that! I could do that! Certainly, it isn't easy to create and continue a developer community. My JUG event had few participants in first three years. I have thought about stopping the community several times before. Now I'm enjoying to organize the community! So in this session I will taik the secrets of operating a developer community.
 ---
-Session ID:	BOF4719
-Session Title:	create your own super simple JIT Compiler with JVMCI
-Session Abstract:	JVMCI means "JVM compiler interface". We can use JVMCI's interfaces to write a JIT compiler in Java. Such compiler already exists, called Graal. Graal was introduced in Java 10. But I tried to write my own super simple JIT compiler for learning purpose. JVM passes byte array of hot method to the interface. So we need to translate that into Java bytecodes. After that we make machine code from Java bytecodes. Machine code is cpu-specific, so I made machine code only for Intel 64 bit CPU. There are so many optimization techniques, so I used only a few techniques. In this session I will talk about what a JIT compiler is, specification of JVMCI interfaces, how to write implementations and how to run an application with you own compiler.
-Session Type:	Birds of a Feather (BOF)
+Title: Create Your Own Super-Simple JIT Compiler with JVMCI
+
+Abstract:
+JVMCI stands for "JVM Compiler Interface". We can use JVMCI to write a JIT
+compiler in Java, an example of which is Graal, which was introduced in
+Java 10. In my talk I will share my experiences writing a super-simple JIT
+compiler.
+
+JVM passes byte array of hot method to the interface. So we need to
+translate that into Java bytecodes. After that we make machine code from
+Java bytecodes. Machine code is cpu-specific, so I made machine code only
+for Intel 64 bit CPU. There are so many optimization techniques, so I used
+only a few techniques.
+
+In this session I will talk about what a JIT compiler is, specification of
+JVMCI interfaces, how to write implementations and how to run an
+application with you own compiler.
+
+Session Type: Developer Session
 ---
 Session ID:	BOF5314
 Session Title:	Bytecode manipulation with Java Agent & ByteBuddy
