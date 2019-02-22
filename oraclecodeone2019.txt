@@ -1,0 +1,30 @@
+Title (limit 80 characters)
+Create Your Own Language on JVM with ANTLR and Truffle
+
+Abstract (limit 750 characters)
+Would you like to create your own programming language and run its code on JVM? Generally there are many things to do. For example, we need a compiler and a runtime etc. With Truffle, we can easily create and run a new programming language on JVM. Truffle is a language implementation framework and an AST (Abstract Syntax Tree) interpreter. Truffle is included in GraalVM. So GraalVM can run various languages such as Ruby, Python, R etc. because those are implemented with Truffle. So all we have to do is creating an AST with Truffle. Additionally we'll use ANTLR, a parse generator library, to create an AST from our source code. After this session, you can create your own language with ANTLR and Truffle!
+
+Session Type
+Developer Session
+
+Primary Track
+Java Ecosystem
+
+Secondary Track
+
+Primary Audience
+Developer
+
+Presentation Summary - For evaluation only, this is an additional description of your proposal to help the reviewers better understand your submission. (limit 3950 characters)
+I'd like to let an audience know that it's easy to create a new programming language with the use of ANTLR and Truffle. I've already written a sample language that can perform the four basic arithmetic operations on GitHub (https://github.com/jyukutyo/JVM-Math-Language). I'm going to add function call functionality later. I've already had a similar session at Japan Java User Group conference. Here is the slide (Japanese): https://www.slideshare.net/jyukutyo/jjug-ccc-2017-fall-jvm. I'll explain about lexer, parser, BNF, AST and Trffle DSL API. Additionally, I'll introduce Graal JIT compiler to give a description of performance improvements provided by Graal for my new language. That is one of the advantages when we create a new language on JVM. The audience will understand the power of Truffle and JVM after this session.
+
+
+Experience Level
+Intermediate
+
+Enter a hyperlink to a video...
+https://www.youtube.com/watch?v=Kcs2t7_VeQs
+---
+Koichi is a senior software engineer in Japan. He has been developed many web applications with Java for 15+ years. 
+He is also a Java Champion, a leader of a JUG called KanJava in Japan, an author of several books about Java framework and a frequent conference speaker in Japan.
+He loves to attend Java conferences around the world!
