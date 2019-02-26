@@ -25,6 +25,32 @@ Intermediate
 Enter a hyperlink to a video...
 https://www.youtube.com/watch?v=Kcs2t7_VeQs
 ---
+Title (limit 80 characters)
+10 Years of My Own Java User Group
+
+Abstract (limit 750 characters)
+10 years ago, I don't have any Java user groups around. So I decide to start my own JUG. To be honest, I didn't even know the word "JUG" at that time. Simply I wanted to talk about Java with developers. After 10 years, we have 900+ members in our group and hold an event monthly. I, myself, was able to become a Java champion. Of course it's hard to start a JUG, but it's harder to continue the JUG over the decade. In this session, I will talk about various topics related to operating a JUG, such as the meaning of JUG, the purpose of holding meetings and how to decide on presenters. For these past 10 years, there were a lot of hard times but there were a lot of fun times too. After this session, your passions for JUG will get stronger!
+
+Session Type
+Developer Session
+
+Primary Track
+Developer Community
+
+Secondary Track
+
+Primary Audience
+Developer
+
+Presentation Summary - For evaluation only, this is an additional description of your proposal to help the reviewers better understand your submission. (limit 3950 characters)
+I will encourage people who don't have any JUGs around to start a JUG. There are many JUGs all over the world, but many local cities don't have a JUG yet. At the same time, I want existing JUG members to know it isn't easy to operate a JUG and want them to cooperate more with the their JUG. Only thing that I did to start my JUG was just posting the blog entry "I want to start a JUG!". A few people commented to the post, so I was able to start my JUG with the people. For these past 10 years, the board members changed on several times, but the JUG still continue. I got many things from the JUG, such as friends, technical skills, a broad vision etc. 10 years ago, I was an ordinary Java developer but was able to become a Java champion last year. Having a JUG for a long time makes all the people who get involved the JUG happier, not only a JUG leader like me. I'd like to inform the audience of that.
+
+Experience Level
+Introductory
+
+Enter a hyperlink to a video...
+https://www.youtube.com/watch?v=Kcs2t7_VeQs
+---
 Koichi is a senior software engineer in Japan. He has been developed many web applications with Java for 15+ years. 
 He is also a Java Champion, a leader of a JUG called KanJava in Japan, an author of several books about Java framework and a frequent conference speaker in Japan.
 He loves to attend Java conferences around the world!
