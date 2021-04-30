@@ -1,0 +1,9 @@
+# Elevetor Pitch
+Contributing to OSSs is a challenge for any developers, especially the product that is big and famous like OpenJDK. Last year I wrote several patches for OpenJDK for the first time and they were merged. It's not easy to start it alone. I'd like to tell my experiences to those who want to do so.
+
+# Description
+Most developers have wanted to contribute to the OSSs that they have used in their daily work. But it is a challenge for everyone, especially the product that is big and famous like OpenJDK. I used to be the same. It's scary to send code that I write by myself to such a big community. Additionally I'm not a native English speaker, so it's hard to explain about my code in English. However, last year I send several patches to OpenJDK at last. They weren't elegant or cool. I made some mistakes in them, but people in the OpenJDK community properly pointed out those mistakes. When my patches were finally merged, I got fulfillment that I've never felt before. In this session, I will talk about how to start to contribute to OpenJDK and my experiences. Even if you aren't experienced java developer, you can contribute. In addition, the OpenJDK repository moved to GitHub and changed the development method to pull request based one. It is easier to contribute than before. After this session, you will be able to start contributions!
+
+# Bio
+Koichi has developed many Java applications for 17 years. He wrote several Java books and is a frequent conference speaker in Japan. He was a founder of the JUG called KanJava and had managed it for over 10 years. Through the activity he has interacted with java developers from all over the world. Now he is a Java champion.
+Last year, he started to contribute to OpenJDK. He had wanted to try to do this for a long time. He wrote some patches. They weren't certainly big or cool ones, but were finally merged to OpenJDK.  He loves to attend various Java conferences around the world!
